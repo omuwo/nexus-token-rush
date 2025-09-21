@@ -15,8 +15,8 @@ Setelah waktu habis → langsung bisa menuju app resmi Nexus 🚀
 ---
 
 ## 🔗 Mainkan Game
-👉 [Klik di sini untuk bermain](https://username.github.io/nexus-token-rush/)  
-*(ganti `username` dengan username GitHub kamu)*
+👉 [Klik di sini untuk bermain](https://omuwo.github.io/nexus-token-rush/)  
+
 
 ---
 
